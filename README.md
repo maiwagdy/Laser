@@ -6,6 +6,7 @@ The sun acts as a massive source of ambient direct current light that easily sat
 Since the competetion is outdoors, therefore we need a laser with wavelegth visible to the human eye & in sunlight.
 --> visible light ranges between **380 nm** & **750 nm**.
 
+![image alt](https://github.com/maiwagdy/Laser/blob/9c808426c84b25f0d771dd09317f865f53866031/the-visible-light-spectrum-2699036_FINAL2-c0b0ee6f82764efdb62a1af9b9525050.png)
 
 - Sunlight makes detection even harder because:
 The bright background reduces your eyes' sensitivity.
